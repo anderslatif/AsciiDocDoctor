@@ -1,0 +1,39 @@
+{
+  "name": "asciidocdoctor",
+  "version": "0.0.01",
+  "description": "Utility tool for AsciiDoc files",
+  "type": "module",
+  "bin": {
+    "remarkableslides": "./lib/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib/",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderslatif/AsciiDocDoctor.git"
+  },
+  "keywords": [
+    "AsciiDoc",
+    "tool"
+  ],
+  "author": "Anders Latif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anderslatif/AsciiDocDoctor/issues"
+  },
+  "homepage": "https://github.com/anderslatif/AsciiDocDoctor#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^12.0.0"
+  }
+}
