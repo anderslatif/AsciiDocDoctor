@@ -1,6 +1,6 @@
 {
   "name": "asciidocdoctor",
-  "version": "0.0.03",
+  "version": "0.0.04",
   "description": "Utility tool for AsciiDoc files",
   "type": "module",
   "bin": {
