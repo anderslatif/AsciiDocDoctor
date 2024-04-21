@@ -5,7 +5,7 @@ Utility tool for AsciiDoc files.
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
 
-<img src="https://github.com/anderslatif/asciidocdoctor/blob/main/asciidoctorlogo.png" alt="AsciiDoc asciidocdoctor logo" width="150" >
+<img src="https://raw.githubusercontent.com/anderslatif/AsciiDocDoctor/main/asciidocdoctorlogo.png" alt="AsciiDoc asciidocdoctor logo" width="150" >
 
 ## How to run
 
